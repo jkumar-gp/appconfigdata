@@ -1,0 +1,11 @@
+{
+    "accountingServiceClientBillPaidStatusJobEnabled": {
+      "enabled": true
+    },
+    "accountingServiceCreditMemoJobEnabled": {
+      "enabled": true
+    },
+    "accountingServiceLspInvoicePayStatusJobEnabled": {
+      "enabled": true
+    }
+  }
