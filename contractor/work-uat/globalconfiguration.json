@@ -1,6 +1,6 @@
 {
     "accountingServiceClientBillPaidStatusJobEnabled": {
-      "enabled": true
+      "enabled": false
     },
     "accountingServiceCreditMemoJobEnabled": {
       "enabled": true
