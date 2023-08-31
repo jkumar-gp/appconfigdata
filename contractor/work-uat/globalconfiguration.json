@@ -3,7 +3,7 @@
       "enabled": false
     },
     "accountingServiceCreditMemoJobEnabled": {
-      "enabled": true
+      "enabled": false
     },
     "accountingServiceLspInvoicePayStatusJobEnabled": {
       "enabled": true
