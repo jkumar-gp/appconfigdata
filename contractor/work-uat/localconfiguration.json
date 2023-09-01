@@ -15,6 +15,6 @@
       "enabled": true
     },
      "isError": {
-      "enabled": true
+      "enabled": false
     }
 }
