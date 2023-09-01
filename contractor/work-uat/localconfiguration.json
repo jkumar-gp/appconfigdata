@@ -13,5 +13,8 @@
     },
     "isWiseEnabled": {
       "enabled": true
+    },
+     "isError": {
+      "enabled": true
     }
 }
