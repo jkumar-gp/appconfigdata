@@ -1,9 +1,9 @@
 {
     "isContractorEnabled": {
-      "enabled": false
+      "enabled": true
     },
     "isContractorReportingEnabled": {
-      "enabled": false
+      "enabled": true
     },
     "isContractorWorkdayEnabled": {
       "enabled": true,
