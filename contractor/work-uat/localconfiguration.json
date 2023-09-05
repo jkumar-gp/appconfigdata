@@ -1,6 +1,6 @@
 {
     "isContractorEnabled": {
-      "enabled": true
+      "enabled": false
     },
     "isContractorReportingEnabled": {
       "enabled": true
