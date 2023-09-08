@@ -5,12 +5,6 @@
     "isContractorReportingEnabled": {
       "enabled": true
     },
-    "isContractorWorkdayEnabled": {
-      "enabled": true,
-      "gpFees": true,
-      "migration": true,
-      "payment": false
-    },
     "isWiseEnabled": {
       "enabled": true
     },
