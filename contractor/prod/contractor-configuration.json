@@ -1,1 +1,23 @@
-
+{
+    "is.qmf.integration.registry.enabled":{
+       "enabled": true
+    },
+    "isContractorEnabled": {
+      "enabled": true
+    },
+    "isContractorReportingEnabled": {
+      "enabled": true
+    },
+    "isContractorWorkdayEnabled": {
+      "enabled": true,
+      "gpFees": true,
+      "migration": true,
+      "payment": false
+    },
+    "isWiseEnabled": {
+      "enabled": true
+    },
+     "isError": {
+      "enabled": true
+    },
+}
