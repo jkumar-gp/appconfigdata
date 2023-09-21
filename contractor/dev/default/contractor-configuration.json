@@ -1,7 +1,7 @@
 
 {
     "isContractorEnabled": {
-      "enabled": false
+      "enabled": true
     },
     "isContractorReportingEnabled": {
       "enabled": true
@@ -9,7 +9,7 @@
     "isContractorWorkdayEnabled": {
       "enabled": true,
       "gpFees": true,
-      "migration": true,
+      "migration": false,
       "payment": false
     },
     "isWiseEnabled": {
